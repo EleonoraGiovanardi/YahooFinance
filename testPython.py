@@ -16,3 +16,5 @@ dati_m.to_csv("AzioniMSFT10anni.csv")
 
 print("Applicazione che si connette a YF per scaricare i dati di MSFT")
 print(dati.head())
+
+print("progetto finito, faccio l'ultimo push")
